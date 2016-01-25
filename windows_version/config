@@ -1,0 +1,4 @@
+File_Name=test.xml
+XPath=/company/develop/programmer
+version(0--sequential, 1--parallel)=1
+number-of-threads(no less than 1 and no more than 10)=4
